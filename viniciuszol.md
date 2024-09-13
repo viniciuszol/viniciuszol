@@ -1,4 +1,4 @@
-# Vinícius
+# Vinícius Souza
 Estudante de Ciência da Computação apaixonado em Front-End, Java, Python e Banco de Dados!!
 ## Conete-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciussszo/)
@@ -15,4 +15,3 @@ Estudante de Ciência da Computação apaixonado em Front-End, Java, Python e Ba
 
 ## GitHub Status
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=viniciuszol&layout=compact&bg_color=000&border_color=00000&title_color=ffffff&text_color=FFF)
-## Meus projetos
