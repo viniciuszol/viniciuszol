@@ -11,5 +11,3 @@ Estudante de Ciência da Computação apaixonado em Front-End, Java, Python e Ba
 ![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuszol&layout=compact&langs_count=7&theme=dracula"/>
